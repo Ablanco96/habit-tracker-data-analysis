@@ -36,3 +36,12 @@ Improving less consistent habits like meditation and study could help stabilize 
 - Python
 - Pandas
 - Matplotlib
+
+
+## Visualizations
+
+### Habit Completion
+![Habit Completion](habit_completion.png)
+
+### Productivity Trend
+![Productivity Trend](productivity_trend.png)
